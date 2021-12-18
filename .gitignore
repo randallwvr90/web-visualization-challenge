@@ -1,0 +1,6 @@
+# Some mac stuff
+.DS_Store
+*/.DS_Store
+
+# Project-specific files and directories
+Instructions/
